@@ -33,10 +33,9 @@
 title: Rémi Soulier's
 subtitle: portfolio
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
-author: Your Incredible Name
-email: your-email@example.com
+  This is my portfolio site.
+author: Rémi Soulier
+email: remi.soulier.84@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
@@ -49,8 +48,8 @@ twitter_url:
 facebook_url:
 googleplus_url:
 instagram_url:
-linkedin_url:
-github_url:
+linkedin_url: https://www.linkedin.com/in/remisoulier
+github_url: https://github.com/Shonik
 stackoverflow_url:
 pinterest_url:
 slack_url:
